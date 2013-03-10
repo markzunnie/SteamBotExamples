@@ -3,5 +3,5 @@ SteamBot example user handlers
 
 ## Placeholder.cs ##
 
-**Created by:** A Person
+**Created by:** A Person.  
 File description

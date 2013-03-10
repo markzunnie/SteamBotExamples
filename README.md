@@ -25,3 +25,16 @@ Edit `BotControlClass` in your `settings.json` in the \Bin\Debug folder of your 
 ## Step 3 ##
 
 Compile and run SteamBot, then enjoy your new bot!
+
+## Contributing your handler file ##
+
+Create a pull request on this repo with your file to have it added.  
+Make sure you have a comment at the very begining of the file describing what it does and make sure to give yourself credit.  
+Example:  
+> /*  
+> 	ExampleFile.cs  
+> 	Created by: Jesse Cardone (jessecar96.net)  
+>  
+>   This handler creates a steam bot that  
+>   you can talk to and trade.  
+> */
