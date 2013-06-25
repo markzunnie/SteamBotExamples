@@ -497,7 +497,6 @@ namespace SteamBot
                             Trade.AddItemByDefindex(5021);
                             Bot.log.Warn("I am adding Mann Co. Supply Crate Key.");
                             BotKeysAdded++;
-                            InventoryKeys--;
                         }
                         Trade.SendMessage("I have added " + BotKeysAdded + " key(s) for you.");
                         Bot.log.Success("I have added " + BotKeysAdded + " key(s) for the user.");
